@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monjuAflame
 - I'm a Fullstack Web Developer and Problem Solver
-- 🌱 I’m currently learning and working on Nuxt js
+- 🌱 I’m currently learning and working on Inertia js
 - 👯 I’m looking to collaborate some big projects
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to learn history

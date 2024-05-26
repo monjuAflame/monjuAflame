@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismail Hossain
 - I'm a Fullstack Web Developer and Problem Solver
-- 🌱 I’m currently learning and working on Inertia js
+- 🌱 I’m currently learning and working on woocommerce
 - 👯 I’m looking to collaborate some big projects
 - 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to learn history
@@ -9,6 +9,8 @@
 <br />
 
 ### Languages and Tools:
+
+<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 
 <img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />

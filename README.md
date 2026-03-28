@@ -2,7 +2,7 @@
 - I'm a Fullstack Web Developer and Problem Solver
 - 🌱 I’m currently learning woocomerce development and working on Laravel & vue
 - 👯 I’m looking to collaborate some big projects
-- 🥅 2025 Goals: Contribute to Open Source projects
+- 🥅 2026 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to learn history
 
 <br />
